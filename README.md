@@ -2,7 +2,7 @@
 
 Open Launcher is an open-source project building tools that give people more control over the software they use. Our goal is to make practical alternatives to the services offered by large technology platforms: free to use, straightforward to self-host, and developed in the open.
 
-This repository contains the public landing page. It is a small, framework-free static site.
+This repository contains the public landing page, pricing page, and product overview. It is a small, framework-free static site.
 
 ## Preview locally
 
@@ -18,7 +18,7 @@ Then visit <http://localhost:8000>.
 
 Copy the repository files to any static web host or web server. No build step or application runtime is required. Keep `index.html`, `styles.css`, and the `assets/` directory together. Configure your host to serve `index.html` as the site’s entry page.
 
-The page currently links to the [Open Launcher GitHub organization](https://github.com/theopenlauncher). Update the page when project links or product information become available.
+The site links to the [Open Launcher GitHub organization](https://github.com/theopenlauncher). Pricing and products are presented as upcoming until hosted plans and application releases are available.
 
 ## Contributing
 

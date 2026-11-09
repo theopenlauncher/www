@@ -26,7 +26,8 @@ DM Sans is loaded from Google Fonts. If the site must run without third-party re
 ## Layout and spacing
 
 - Keep the landing page within one viewport: header and footer are fixed-height bands around a flexible, vertically centered hero.
-- Keep the header wordmark at the left and the GitHub link at the right. Center the hero eyebrow, headline, description, CTA, and three principles.
+- Keep the header wordmark at the left and the pricing/stack navigation at the right. Center the hero eyebrow, headline, description, CTA, and three principles.
+- Use the same compact header navigation and footer on the home, pricing, and stack pages. Keep page content within the viewport.
 - Use the three principle labels as truthful proof points: open source, free to self-host, and made for people. Do not add invented metrics, testimonials, or partner logos.
 - Remove decorative hero artwork; the mark appears only beside the wordmark.
 - On narrow screens, reduce type and spacing while retaining the centered hierarchy and one-screen layout.
@@ -37,6 +38,7 @@ DM Sans is loaded from Google Fonts. If the site must run without third-party re
 
 - The primary action and wordmark are semantic links and work from the keyboard.
 - Preserve a visible high-contrast focus ring. Never communicate state through color alone.
+- Underline header navigation links on hover, with a small offset for legibility.
 - Keep motion subtle and honor `prefers-reduced-motion`.
 - Maintain readable text contrast against the white surface.
 - The logo artwork is decorative when the adjacent wordmark already names the project; use empty alt text in that context.
