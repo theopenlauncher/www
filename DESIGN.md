@@ -1,8 +1,8 @@
-# Open Launcher design system
+# open-launcher design system
 
 ## Direction
 
-An open software project with an open-door attitude: quiet, direct, and optimistic. Use a minimal white canvas, black type, generous negative space, and a centered hero. The visual reference is the sparse composition of Ollama’s homepage: a compact header, a single focused message, one primary action, a small proof row, and a quiet footer. Keep Open Launcher’s own copy and identity; do not reuse third-party metrics or customer marks.
+An open software project with an open-door attitude: quiet, direct, and optimistic. Use a minimal white canvas, black type, generous negative space, and a centered hero. The visual reference is the sparse composition of Ollama’s homepage: a compact header, a single focused message, one primary action, a small proof row, and a quiet footer. Keep open-launcher’s own copy and identity; do not reuse third-party metrics or customer marks.
 
 ## Color
 
