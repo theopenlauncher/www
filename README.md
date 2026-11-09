@@ -1,35 +1,38 @@
 # open-launcher
 
-open-launcher is an open-source project building tools that give people more control over the software they use. Our goal is to make practical alternatives to the services offered by large technology platforms: free to use, straightforward to self-host, and developed in the open.
+**Open tools for people.**
 
-This repository contains the public landing page, pricing page, product overview, and custom 404 page. The site files are in `public/` and use plain HTML and CSS.
+open-launcher is an open-source project building practical alternatives to software controlled by large technology platforms. The goal is simple: give people useful tools they can inspect, adapt, and run on their own terms.
 
-## Preview locally
+## What we believe
 
-Serve the public directory with any static file server. For example, with Python installed:
+- **Software should be open.** People should be able to see how the tools they rely on are made and take part in improving them.
+- **Self-hosting should stay accessible.** Our software is intended to be free to self-host. You choose where it runs and manage the infrastructure you use.
+- **People should stay in control.** Products should make their data, requirements, and limitations clear, without relying on lock-in as a business model.
+- **Open alternatives should be useful.** We want to build dependable tools for everyday work, not demos that trade usability for ideology.
 
-```sh
-python3 -m http.server 8000 --directory public
-```
+## What we're building
 
-Then visit <http://localhost:8000>.
+The first planned application is **open-notion**, a working name for an open-source workspace alternative inspired by Notion. It is still planned; a public application release and final product name have not been announced.
 
-## Self-host
+More tools are part of the vision, but we will name them when their plans are concrete. Follow the [open-launcher GitHub organization](https://github.com/theopenlauncher) for project updates and public repositories.
 
-Publish the contents of `public/` to any static web host or web server. No build step or application runtime is required. Keep the HTML pages, `styles.css`, and `assets/` directory together. Configure `index.html` as the entry page and `404.html` as the custom not-found page.
+## Free to self-host
 
-The site links to the [open-launcher GitHub organization](https://github.com/theopenlauncher). Hosted plans are planned, but pricing details are coming soon. Applications are presented as upcoming until they have public releases.
+The open-source applications are intended to be free to run on infrastructure you control. Hosting still uses your chosen hardware or provider, which may have its own costs.
 
-## Contributing
+Hosted plans are planned, with pricing and included features to be announced later. They are not required to self-host the software.
 
-Issues and pull requests are welcome. Before proposing a change, check existing issues so related work can be coordinated. For visual changes, include the viewport sizes you checked and screenshots when useful. Please keep the page accessible, responsive, and usable without a build step.
+## Get involved
 
-## Design
+We welcome thoughtful issues, feedback, and pull requests. Visit the [GitHub organization](https://github.com/theopenlauncher) to find public repositories. Each application will document its own installation steps, technical requirements, support status, and license when those details are ready.
 
-See [DESIGN.md](DESIGN.md) for the visual direction, layout rules, and interaction guidance.
+## Project documents
 
-See [DOCUMENTATION.md](DOCUMENTATION.md) for the site map, architecture, current product and pricing status, and deployment guidance.
+- [Project guide](DOCUMENTATION.md): shared mission, principles, product status, and guidance for future app repositories.
+- [Design system](DESIGN.md): visual rules for open-launcher project materials.
+- [Contributor guidance](AGENTS.md): persistent project constraints.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE). Each application repository will state its own license; check it before reusing an app's code.
