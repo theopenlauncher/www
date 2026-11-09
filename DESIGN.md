@@ -28,6 +28,7 @@ DM Sans is loaded from Google Fonts. If the site must run without third-party re
 - Keep the landing page within one viewport: header and footer are fixed-height bands around a flexible, vertically centered hero.
 - Keep the header wordmark at the left and the pricing/stack navigation at the right. Center the hero eyebrow, headline, description, CTA, and three principles.
 - Use the same compact header navigation and footer on the home, pricing, and stack pages. Keep page content within the viewport.
+- Match the 404 page to the shared white canvas, wordmark, navigation, typography, CTA, and footer; keep error messaging concise and centered.
 - Use the three principle labels as truthful proof points: open source, free to self-host, and made for people. Do not add invented metrics, testimonials, or partner logos.
 - Remove decorative hero artwork; the mark appears only beside the wordmark.
 - On narrow screens, reduce type and spacing while retaining the centered hierarchy and one-screen layout.
