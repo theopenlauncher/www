@@ -17,12 +17,11 @@ Use white as the dominant surface and black for high-contrast actions and headin
 
 ## Typography
 
-- Display and wordmark: Manrope, with an Avenir Next fallback; use tight tracking and a confident, medium weight.
-- Body and controls: DM Sans, with a clean sans-serif fallback. Keep body copy compact but generous in line height.
-- Labels and small metadata: DM Mono, uppercase where appropriate, with modest tracking.
-- Keep emphasis within the headline understated and consistent with the sans-serif typography.
+- Use DM Sans throughout, with Avenir Next and a generic sans-serif fallback.
+- Create hierarchy through size, weight, line height, and letter spacing instead of switching font families.
+- Keep the headline compact and confident, body copy easy to scan, and labels small with modest tracking.
 
-Fonts are loaded from Google Fonts. If the site must run without third-party requests, replace these imports with locally hosted font files and retain the same family roles.
+DM Sans is loaded from Google Fonts. If the site must run without third-party requests, replace the import with a locally hosted DM Sans file.
 
 ## Layout and spacing
 
